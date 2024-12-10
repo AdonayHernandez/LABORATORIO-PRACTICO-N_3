@@ -1,6 +1,6 @@
 # Lab 3 - Implementación en Kotlin
 
-Este es un programa en Kotlin que implementaremos cuatro algoritmos y problemas clásicos: 
+En este es un programa en Kotlin que implementaremos cuatro algoritmos y problemas clásicos: 
 1. **Bubble Sort**: Ordena una lista de números.
 2. **Quick Sort**: Ordena una lista de números.
 3. **Factorial**: Calcula el factorial de un número entero positivo.
